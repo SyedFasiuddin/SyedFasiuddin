@@ -1,4 +1,6 @@
-[![Typing SVG](<https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=console.log(%22Hello+World%22);printf(%22Hello+World%22)>)](https://git.io/typing-svg)
+# Hi I'm Syed Fasiuddin
+
+A Computer Science student and a Full stack developer, currently working on personal projects and also contributing to open source projects
 
 ---
 
@@ -6,9 +8,7 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedFasiuddin)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
+[![Syed Fasiuddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedFasiuddin)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedFasiuddin)](https://github.com/anuraghazra/github-readme-stats)
 
